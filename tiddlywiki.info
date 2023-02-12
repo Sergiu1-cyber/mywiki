@@ -3,11 +3,22 @@
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
-        "tiddlywiki/highlight"
+        "tiddlywiki/highlight",
+        "tiddlywiki/browser-sniff",
+        "tiddlywiki/classictools",
+        "tiddlywiki/codemirror",
+        "tiddlywiki/katex",
+        "tiddlywiki/markdown",
+        "tiddlywiki/menubar",
+        "tiddlywiki/mobiledragdrop"
     ],
     "themes": [
         "tiddlywiki/vanilla",
         "tiddlywiki/snowwhite"
+    ],
+    "languages": [
+        "es-ES",
+        "ru-RU"
     ],
     "build": {
         "index": [
